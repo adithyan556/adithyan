@@ -111,7 +111,7 @@ By using kick, add, promote, demote Commands, Your WhatsApp account may be banne
 
     
 
-  [![Midhunser](https://github.com/KALIPPAN-SER02.png?size=100)](https://github.com/Kalippan-Midhunx3) |  [![Midhunser](https://github.com/Kalippan-Midhunx3.png?size=100)](https://github.com/Kalippan-Midhunx3) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![ADITHYAN](https://github.com/adithyan556.png?size=100)]
 
 ----|----|---
 
