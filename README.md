@@ -25,7 +25,7 @@ src="https://tenor.com/view/kiss-gif-25234454.gif" alt="GIF"/>
 
   <p align="center">
 
-<a href="https:"><img title="Author" src="https://img.shields.io/badge/Author--MIDHUN/KALIPPAN-SER?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https:"><img title="Author" src="https://img.shields.io/badge/Author--REAK-ADITHYAN?color=blue&style=for-the-badge&logo=whatsapp"></a>
 
 </p>
 
@@ -115,7 +115,7 @@ By using kick, add, promote, demote Commands, Your WhatsApp account may be banne
 
 ----|----|---
 
-[Midhunser](https://github.com/KALIPPAN-SER02)  | [Midhunser](https://github.com/Kalippan-minnuz) | [afnanplk](https://github.com/afnanplk)
+ | [ADITHYAN](https://github.com/adithyan556) | 
 
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
 
