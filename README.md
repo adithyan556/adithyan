@@ -33,9 +33,9 @@ src="https://tenor.com/view/kiss-gif-25234454.gif" alt="GIF"/>
 
 <p align="center">
 
-  <a href="https://instagram.com/_midhun_x3__"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://instagram.com/_adithyan_55"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
 
-  <a href="https://wa.me/918281370025"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://wa.me/99778081636"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 </p>
 
@@ -43,7 +43,7 @@ src="https://tenor.com/view/kiss-gif-25234454.gif" alt="GIF"/>
 
 <p align="center">
 
-Project created by <a href="https://github.com/KALIPPAN-SER02">KALIPPAN-SER</a> to make it public
+Project created by <a href="https://github.com/adithyan556">ADHI SER</a> to make it public
 
     <br>
 
@@ -69,46 +69,6 @@ Project created by <a href="https://github.com/KALIPPAN-SER02">KALIPPAN-SER</a> 
 
   
 
-### THE HARD METHOD
-
-```js
-
-GET QR
-
-$ apt install git
-
-$ apt install nodejs --fix-missing
-
-$ git clone https://github.com/KALIPPAN-SER02/APARNA-MWOL_V2
-
-$ cd APARNA-MWOL_V2
-
-$ npm install @adiwajshing/baileys
-
-$ npm install chalk
-
-$ node julie.js
-
-```
-
-      
-
-```js
-
-SETUP
-
-$ git clone https://github.com/KALIPPAN-SER02/APARNA-MWOL_V2
-
-$ cd APARNA-MWOL_V2
-
-$ npm i
-
-$ node julie.js
-
-```
-
-----
-
   <p align="center">
 
   <a href="https://github.com/KALIPPAN-SER02/APARNA-MWOL_V2/followers">
@@ -121,7 +81,7 @@ $ node julie.js
 
 <p align="center">
 
-<a href="https://github.com/Kalippan-Midhunx3/followers"
+<a href="https://github.com/adithyan556/followers"
 
 <img title="Followers" src="https://img.shields.io/github/followers/Aj-fx?color=blue&style=flat-square"></a>
 
