@@ -9,7 +9,7 @@ src="https://tenor.com/view/kiss-gif-25234454.gif" alt="GIF"/>
 
 </p>
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+APARNA+MWOL+V2+REPO;CREATED+BY+KALIPPAN+SIR;THIS+IS+A+USERBOT+PRIVATE+AND+PUBLIC+BOT;WITH+MORE+FEATHERS)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+ADITHYAN+V1+REPO;CREATED+BY+REAK+SIR;THIS+IS+A+USERBOT+PRIVATE+AND+PUBLIC+BOT;WITH+MORE+FEATHERS)](https://git.io/typing-svg)
 
  </a>
 
@@ -19,7 +19,7 @@ src="https://tenor.com/view/kiss-gif-25234454.gif" alt="GIF"/>
 
   <p align="center">
 
-<img src=https://www.linkpicture.com/q/icon1.jpg>
+<img src=(https://www.linkpicture.com/q/20220907_092936.jpg)>
 
 </p>
 
