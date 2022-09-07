@@ -19,7 +19,7 @@ src="https://tenor.com/view/kiss-gif-25234454.gif" alt="GIF"/>
 
   <p align="center">
 
-<img src=(https://www.linkpicture.com/q/20220907_092936.jpg)>
+<img src=  https://www.linkpicture.com/q/20220907_092936.jpg >
 
 </p>
 
